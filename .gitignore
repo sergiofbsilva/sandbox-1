@@ -1,1 +1,17 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+.settings/
+.serviceAnnotationLog
+.classpath
+.DS_Store
+configuration.properties
+log4j.properties
+
+# Maven #
 target/
+bin/
